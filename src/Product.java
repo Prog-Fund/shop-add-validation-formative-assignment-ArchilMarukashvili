@@ -4,6 +4,7 @@
  * @author Mairead Meagher, Siobhan Drohan
  */
 public class Product {
+    //meow
 
     private String productName ;    // max length = 20 characters, default value is "".
                                     // When constructor is called, if the name is >20 chars, you should
