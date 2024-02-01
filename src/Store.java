@@ -21,6 +21,7 @@ public class Store {
     private boolean isEmpty() {
         return total == 0;
     }
+    //comment
 
     /**
      * If there is space available, add the product object, passed as a parameter, to the array.
